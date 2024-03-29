@@ -1,5 +1,5 @@
 # TrackingMore: La Poste Tracking API
-[La Poste Tracking API](https://www.trackingmore.com/laposte-tracking-api.html) allows seamless syncing of FedEx's shipment data into your system for improved tracking control.
+[La Poste Tracking API](https://www.trackingmore.com/laposte-tracking-api.html) allows seamless syncing of La Poste's shipment data into your system for improved tracking control.
 
 TrackingMore amplifies tracking functionality, offering an [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that consolidates tracking information from over 1,200 international carriers.
 
