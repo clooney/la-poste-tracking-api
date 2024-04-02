@@ -1,4 +1,4 @@
-# TrackingMore: La Poste Tracking API
+# TrackingMore: La Poste Tracking API & Webhook
 [La Poste Tracking API](https://www.trackingmore.com/laposte-tracking-api.html) allows seamless syncing of La Poste's shipment data into your system for improved tracking control.
 
 TrackingMore amplifies tracking functionality, offering an [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that consolidates tracking information from over 1,200 international carriers.
@@ -7,7 +7,7 @@ The TrackingMore API is versatile, with support for seven different programming 
 
 ### Features
    *  Unified real-time tracking information for La Poste shipments.
-   *  Webhook support for automatic shipment status updates.
+   *  [Webhook](https://www.trackingmore.com/docs/trackingmore/79dpyqt0qaebs-webhook-overview) support for automatic shipment status updates.
 
 ### Tracking Status Glossary
 
